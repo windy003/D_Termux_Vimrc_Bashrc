@@ -14,7 +14,6 @@ set nu
 
 
 
-autocmd FileType yaml setlocal list listchars=tab:>-,space:·,trail:~ noexpandtab tabstop=4 shiftwidth=4 | echo "yaml loaded"
 
 
 
